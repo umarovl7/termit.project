@@ -59,4 +59,53 @@
     font-weight: 500;
     font-size: 16px;
 }
-
+#intro{
+    background-color: rgba(236, 255, 235, 1);
+    width: 1440px;
+    height: 584px;
+    margin-left: 50px;
+}
+.ialtexts{
+    margin-left: 70px;
+    padding-top: 50px;
+}
+.ialtexts h4{
+    color: rgba(66, 66, 66, 1);
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: 600;
+}
+.ialtexts h2{
+    color: rgba(85, 166, 48, 1);
+    font-family: "Montserrat";
+    font-size: 60px;
+    font-weight: 700;
+    width: 496px;
+    line-height: 65px;
+}
+.ialtexts h5{
+    color: rgba(66, 66, 66, 1);
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: 500;
+    width: 419px;
+    margin-top: 10px;
+}
+.register{
+    background-color: rgba(85, 166, 48, 1);
+    width: 285px;
+    height: 66px;
+    font-family: "Montserrat";
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 70px ;
+    margin-top: 50px;
+}
+.uznat{
+    background-color: rgba(85, 166, 48, 1);
+    width: 285px;
+    height: 66px;
+    background: none;
+    border: 10px;
+}
