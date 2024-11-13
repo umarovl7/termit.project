@@ -8,3 +8,4 @@
       "dev":"npx tailwindcss -i ./src/main.css -o ./scr/output.css --watch"
     }
   }
+ 
